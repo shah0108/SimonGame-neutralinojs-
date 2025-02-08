@@ -1,0 +1,324 @@
+INFO 2025-01-15 10:17:09,296 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-15 10:17:11,862 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-15 10:32:24,352 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-15 10:32:26,461 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-15 10:34:31,654 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-15 10:38:26,150 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-15 10:38:29,085 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-15 11:25:56,361 NE_RS_UNBLDRE: Unable to load application resource file /resources/sounds/green.mp3 api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-15 11:25:56,365 NE_RS_UNBLDRE: Unable to load application resource file /resources/sounds/wrong.mp3 api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-15 11:25:58,988 NE_RS_UNBLDRE: Unable to load application resource file /resources/sounds/green.mp3 api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-15 11:26:00,625 NE_RS_UNBLDRE: Unable to load application resource file /resources/sounds/green.mp3 api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-15 11:26:01,326 NE_RS_UNBLDRE: Unable to load application resource file /resources/sounds/blue.mp3 api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-15 11:26:03,060 NE_RS_UNBLDRE: Unable to load application resource file /resources/sounds/blue.mp3 api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-15 11:26:03,060 NE_RS_UNBLDRE: Unable to load application resource file /resources/sounds/wrong.mp3 api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-15 12:55:24,849 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-15 12:55:27,539 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-15 19:51:28,597 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-15 19:51:31,752 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-15 19:59:13,539 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-15 19:59:16,387 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-15 22:29:07,003 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-15 22:29:11,441 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-15 22:59:52,205 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-15 22:59:54,198 NE_RS_UNBLDRE: Unable to load application resource file /resources/neutralino.js api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-15 22:59:54,832 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-15 23:05:16,893 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-15 23:05:19,375 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-15 23:10:37,777 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-15 23:10:39,807 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-15 23:27:11,560 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-15 23:27:15,006 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-15 23:27:45,443 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-15 23:27:47,473 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-15 23:38:21,306 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-15 23:38:23,598 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-15 23:44:29,483 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-15 23:44:31,766 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 00:19:43,859 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-16 00:19:48,431 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 00:20:15,927 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-16 00:20:18,616 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 00:21:51,631 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 00:21:59,232 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-16 00:22:01,687 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 00:23:15,736 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 00:23:21,645 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-16 00:23:25,032 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 00:25:02,587 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 00:25:10,054 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-16 00:25:13,630 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 00:26:51,702 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 00:27:04,542 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-16 00:27:07,223 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 00:30:26,303 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 00:31:03,509 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-16 00:31:06,678 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 00:32:38,876 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-16 00:32:41,509 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 00:35:15,490 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 00:35:20,059 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-16 00:35:23,567 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 00:35:44,930 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-16 00:35:47,535 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 00:40:28,942 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 00:40:28,959 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 00:40:37,284 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-16 00:40:40,660 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 00:42:30,032 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-16 00:42:32,531 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 00:42:45,078 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-16 00:42:47,217 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 00:45:38,406 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-16 00:45:41,524 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 00:47:39,697 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 09:24:22,378 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-16 09:24:25,102 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 09:35:51,535 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 09:35:58,119 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-16 09:36:00,129 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 09:39:11,041 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-16 09:39:12,757 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 11:16:10,755 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-16 11:16:12,878 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 12:14:49,604 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 12:16:13,560 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 12:16:40,136 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 12:16:47,478 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 12:17:52,696 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-16 12:17:54,956 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 12:18:30,505 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-16 12:18:32,863 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 12:32:23,327 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-16 12:32:25,686 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-16 12:33:08,200 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-16 12:33:10,266 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 11:27:41,818 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-17 11:27:43,857 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 11:28:06,232 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-17 11:28:07,983 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 11:55:07,561 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-17 11:55:09,890 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 11:59:04,089 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 11:59:54,161 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-17 11:59:56,069 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 12:00:52,304 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-17 12:00:53,837 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 12:07:36,057 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-17 12:07:38,465 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 12:35:31,907 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-17 12:35:36,117 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 16:11:11,247 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-17 16:11:13,262 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 16:11:37,704 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-17 16:11:39,121 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 16:12:27,202 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 16:12:45,622 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 16:14:31,761 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 16:19:43,278 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-17 16:19:44,584 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 16:21:30,105 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 16:21:44,577 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-17 16:21:46,420 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 16:22:54,858 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-17 16:22:56,520 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 16:26:10,467 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-17 16:26:12,477 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 16:27:41,006 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-17 16:27:42,423 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 16:45:52,513 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-17 16:45:54,061 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 16:46:39,402 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-17 16:46:41,226 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 16:48:25,273 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-17 16:48:27,029 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 16:54:01,620 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-17 16:54:03,163 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 17:05:33,290 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 17:06:17,687 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 17:06:19,324 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 17:06:39,668 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 17:08:02,264 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 22:56:39,294 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-17 22:56:42,578 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 23:02:35,247 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-17 23:02:37,314 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-17 23:04:21,458 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-18 10:08:23,686 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-18 10:08:26,348 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-18 15:33:21,383 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-18 15:33:24,399 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-18 15:33:58,935 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-18 15:34:01,359 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-18 19:39:46,326 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-18 19:39:49,353 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-18 21:08:59,155 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-18 21:09:02,555 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-18 21:10:30,403 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-18 21:10:44,830 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-18 21:10:46,419 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-18 21:21:17,570 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-18 21:21:19,324 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-18 22:01:14,909 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-18 22:06:18,175 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-18 22:08:19,297 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-18 22:09:18,763 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-18 22:09:21,098 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-18 22:09:56,148 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-18 22:09:58,311 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-18 22:17:18,395 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-18 22:23:46,093 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-18 22:23:49,733 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-18 22:34:36,795 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-18 22:39:13,056 NE_RS_UNBLDRE: Unable to load application resource file /resources/style.css api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-18 22:39:38,228 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-18 22:39:39,740 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-18 22:39:53,843 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-18 22:39:55,176 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-18 22:40:52,193 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-18 22:40:53,717 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-18 22:41:07,529 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-18 22:41:09,016 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-18 22:41:18,116 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-18 22:41:20,484 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-18 22:41:31,687 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-18 22:51:55,076 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-18 22:51:57,153 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 00:38:07,823 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-19 00:38:10,310 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 00:51:12,554 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-19 00:51:15,410 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 00:51:54,453 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 00:52:31,469 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 00:53:30,549 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 00:55:59,699 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 00:56:03,070 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 00:56:13,289 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 00:56:44,025 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 00:57:15,926 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 00:57:26,383 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 00:58:11,029 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 00:58:22,567 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 00:58:31,785 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 00:59:00,308 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 01:00:26,076 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 01:01:00,764 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 01:01:07,411 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 01:01:19,462 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 01:01:29,098 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 01:02:34,277 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 01:07:36,390 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-19 01:07:38,337 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 01:08:07,223 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 01:08:22,771 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 01:09:23,929 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 01:10:44,547 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 01:10:57,589 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 09:38:15,588 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-19 09:38:18,230 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 10:02:48,790 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 10:04:49,963 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-19 10:38:25,091 NE_RS_UNBLDRE: Unable to load application resource file /resources/leaderboard.js api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 10:47:41,767 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-19 10:48:07,275 NE_RS_UNBLDRE: Unable to load application resource file /resources/users.json api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 10:49:46,632 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-19 10:49:52,407 NE_RS_UNBLDRE: Unable to load application resource file /resources/users.json api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 10:50:41,534 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-19 10:51:06,731 NE_RS_UNBLDRE: Unable to load application resource file /resources/users.json api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-19 10:52:52,197 NE_RS_UNBLDRE: Unable to load application resource file /resources/users.json api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 10:56:10,328 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 10:56:24,832 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 10:56:26,276 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 11:00:25,940 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 11:01:18,503 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 11:02:37,749 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 11:03:27,253 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 11:21:39,947 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 11:27:03,804 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 11:28:02,472 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 11:30:00,546 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 11:37:24,334 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 11:37:59,685 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 11:38:49,087 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 11:39:07,715 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 11:39:44,043 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 11:40:44,645 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 11:41:54,481 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 11:41:55,912 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 11:57:10,957 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 11:57:12,858 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 12:00:10,900 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-19 12:00:13,251 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 14:41:26,918 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-19 14:41:29,039 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 15:09:40,699 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 15:10:20,416 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 15:22:42,424 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-19 15:22:45,051 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 15:29:08,781 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-19 15:29:11,019 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 15:29:21,313 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 15:29:27,635 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-19 15:29:28,939 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 16:53:54,447 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-19 16:53:56,641 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 18:58:39,878 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-19 18:58:42,546 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 19:09:26,313 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 19:20:21,229 Reloading the application... api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 22:15:15,802 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-19 22:15:19,007 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 22:29:27,326 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-19 22:29:30,384 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 22:33:01,665 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-19 22:33:04,283 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 22:38:46,051 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-19 22:38:48,935 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 22:43:50,387 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-19 22:43:53,555 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 22:49:03,339 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-19 22:49:06,329 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 22:51:59,572 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-19 22:52:02,151 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-19 23:56:14,344 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-19 23:56:16,933 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-20 07:11:57,328 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-20 07:12:01,255 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-20 07:18:11,708 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-20 07:18:14,651 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-20 07:40:35,046 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-20 07:40:38,548 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-20 07:45:41,594 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-20 07:45:44,728 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-20 07:50:11,665 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-20 07:50:14,739 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-20 07:58:22,959 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-20 07:58:25,958 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-20 08:02:16,405 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-20 08:02:19,636 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-20 08:09:18,664 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-20 08:09:21,333 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-20 08:57:38,095 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-20 08:57:41,043 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-21 08:04:40,657 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-21 08:04:43,787 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-21 08:40:00,372 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-21 08:40:03,340 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-21 08:47:56,884 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-21 08:47:59,355 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-21 15:40:56,953 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-21 15:40:59,341 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-22 16:50:19,406 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-22 16:50:24,662 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-22 16:52:07,146 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-22 16:52:09,921 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-22 18:41:26,013 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-22 18:41:28,352 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-23 06:13:51,933 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-23 06:13:55,759 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-23 09:14:58,168 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-23 09:15:01,604 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-01-29 07:12:30,612 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-01-29 07:12:33,729 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND
+INFO 2025-02-02 16:52:58,071 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 KRISH@LAPTOP-CTOD3IND
+ERROR 2025-02-02 16:53:03,268 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 KRISH@LAPTOP-CTOD3IND

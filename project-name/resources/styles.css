@@ -1,0 +1,141 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #282c34; /* Adjust the background of the page */
+  color: #61dafb; /* Optional: page text color */
+  margin: 0;
+  text-align: center;
+}
+
+#level-title {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  margin: 5%;
+  color: #FEF2BF;
+}
+
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+}
+
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 10px solid black;
+  border-radius: 20%;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+/* Fullscreen button styles */
+.button-container {
+  display: flex;               /* Use flexbox for alignment */
+  justify-content: center;     /* Center the buttons horizontally */
+  gap: 20px;                   /* Add space between the buttons */
+  margin-top: 20px;            /* Optional: Vertical spacing */
+}
+
+.fullscreen-btn, .exit-btn , .leaderboard-btn, .login-btn, .logout-btn{
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.fullscreen-btn:hover {
+  background-color: #0056b3;
+}
+
+.exit-btn {
+  background-color: #dc3545;
+}
+
+.exit-btn:hover {
+  background-color: #c82333;
+}
+
+.login-btn {
+  background-color: #FFF0DC;
+}
+
+.login-btn:hover {
+  background-color: grey;
+}
+
+.leaderboard-btn {
+  background-color: #FFF0DC;
+}
+
+.leaderboard-btn:hover {
+  background-color: rgba(109, 93, 93, 0.973);
+}
+
+.logout-btn {
+  background-color: yellow;
+}
+
+.logout-btn:hover {
+  background-color: yellowgreen;
+}
+
+
+/* High Score Display Styles */
+#highscore-display {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #ffffff; /* Adjust color to your liking */
+  background-color: #007bff; /* Example: Blue background */
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin: 20px auto;
+  text-align: center;
+  width: fit-content;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+  transition: transform 0.2s ease-in-out;
+}
+
+/* Add a hover effect */
+#highscore-display:hover {
+  transform: scale(1.05);
+  background-color: #0056b3; /* Darker blue on hover */
+}
+
+/* Ensure the container aligns */
+
+
+
