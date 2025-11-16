@@ -136,7 +136,7 @@ Stored in `highscore.json`:
 }
 ```
 
-###**Login System**
+#Login System
 
 Username saved in localStorage
 
@@ -154,8 +154,8 @@ Make changes
 
 Commit with meaningful messages
 
-###**Create a Pull Request**
+#Create a Pull Request
 
-###**License**
+#License
 
 This project is open-source and free to use.
