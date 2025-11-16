@@ -37,9 +37,6 @@ A lightweight desktop game with persistent scores, fullscreen gameplay, and nati
 
 ---
 
-
----
-
 #  How the Game Works
 
 1. Press any key to start  
