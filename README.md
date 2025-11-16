@@ -141,7 +141,7 @@ High score tracked per user
 
 Logout clears user data
 
-Contribution Guidelines
+# Contribution Guidelines
 
 Fork the repo
 
@@ -151,7 +151,7 @@ Make changes
 
 Commit with meaningful messages
 
-# Create a Pull Request
+Create a Pull Request
 
 # License
 
